@@ -8,10 +8,10 @@
 - [7.funkce]()
   
 ## 1. Funkce-pole
-python
 pole, kde je seznam předmětů:
+```python
 predmety = ["Ucebni praxe", "Matematika", "Programovani", "Anglicky jazyk", "Český jazyk", "Pocitacove site", "Aplikacni software"]
-
+```
 ## 2.Funkce-délka pole
 DelkaPole = len(predmety)
 print(DelkaPole)
