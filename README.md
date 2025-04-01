@@ -8,7 +8,7 @@
 - [7.funkce]()
   
 ## 1. Funkce-pole
-´´´python
+python
 pole, kde je seznam předmětů:
 predmety = ["Ucebni praxe", "Matematika", "Programovani", "Anglicky jazyk", "Český jazyk", "Pocitacove site", "Aplikacni software"]
 
